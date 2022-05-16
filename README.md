@@ -14,6 +14,8 @@ Select the `tello-blocks.xml` file and Done!.
 
 ![Import Blocks](./assets/imported.jpeg)
 
+ℹ️ More blocks coming soon...
+
 # How to used
 
 The communication between Snap! and the Tello drone is through webSockets so you need [tello-js](https://github.com/harleylara/tello-js).
