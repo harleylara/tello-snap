@@ -1,5 +1,7 @@
 # Tello Snap!
 
+![Banner](./assets/tello-snap-banner.jpg)
+
 A collection of blocks, and example projects to control Tello drone using [Snap!](https://snap.berkeley.edu/).
 
 > ℹ️ To use these blocks you need [tello-js](https://github.com/harleylara/tello-js).
